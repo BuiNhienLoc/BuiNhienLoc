@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buinhienloc" alt="buinhienloc" /></a> </p>
 
-- 🔭 I’m currently working on **A recipe and calories tracking app**
+- 🔭 I’m currently working on **a recipe and calories tracking app**
 
 - 🌱 I’m currently getting my **Masters in Computer Science at Oregon State University**
 
