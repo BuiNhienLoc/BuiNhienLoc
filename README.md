@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://luke-bui.tiiny.site](https://luke-bui.tiiny.site)
 
-- ⚡ Fun fact **I know the difference between their and there**
+- ⚡ Fun fact **I know the difference between there, they're and their**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
